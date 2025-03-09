@@ -5,7 +5,7 @@ This project analyzes **water consumption trends and shortages** in Maji Ndogo v
 The goal is to identify key factors contributing to water shortages and propose solutions using **data-driven insights**.  
 
 ### 📸 **Maji Ndogo**  
-![Power BI Dashboard](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Maji_Ndogo.PNG)(https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Maji%20Ndogo%20first.png) 
+![Power BI Dashboard](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Maji_Ndogo.PNG) 
 
 ---
 
@@ -36,7 +36,7 @@ The goal is to identify key factors contributing to water shortages and propose 
 🔗 **Live Dashboard:** [View Here](https://yourpowerbidashboard.com)  
 
 ### 📸 **Dashboard Screenshot**  
-![Power BI Dashboard](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg)  
+![Power BI Dashboard(https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Maji%20Ndogo%20first.png)]  
 
 ---
 
