@@ -4,6 +4,9 @@
 This project analyzes **water consumption trends and shortages** in Maji Ndogo village using **SQL and Power BI**.  
 The goal is to identify key factors contributing to water shortages and propose solutions using **data-driven insights**.  
 
+### 📸 **Dashboard Screenshot**  
+![Power BI Dashboard](./dashboards/water_project_dashboard.png) 
+
 ---
 
 ## 📂 Data Sources  
