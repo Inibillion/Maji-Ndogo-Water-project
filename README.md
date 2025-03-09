@@ -49,7 +49,7 @@ We performed **EDA** to uncover trends and patterns in the dataset.
 - **Correlation found between seasonal rainfall and water availability.**  
 
 📊 **Visualization Sample:**  
-![Data Distribution](./screenshots/data_distribution_chart.png)  
+![Data Distribution](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg)  
 
 ---
 
