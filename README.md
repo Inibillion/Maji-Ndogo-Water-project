@@ -5,7 +5,7 @@ This project analyzes **water consumption trends and shortages** in Maji Ndogo v
 The goal is to identify key factors contributing to water shortages and propose solutions using **data-driven insights**.  
 
 ### 📸 **Maji Ndogo**  
-![Power BI Dashboard](./dashboards/water_project_dashboard.png) 
+![Power BI Dashboard](.Maji_Ndogo.PNG) 
 
 ---
 
