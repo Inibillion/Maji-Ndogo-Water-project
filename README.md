@@ -36,7 +36,7 @@ The goal is to identify key factors contributing to water shortages and propose 
 🔗 **Live Dashboard:** [View Here](https://yourpowerbidashboard.com)  
 
 ### 📸 **Dashboard Screenshot**  
-![Power BI Dashboard](./dashboards/water_project_dashboard.png)  
+![Power BI Dashboard](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg)  
 
 ---
 
