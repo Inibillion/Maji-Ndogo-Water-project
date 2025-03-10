@@ -55,6 +55,11 @@ We performed **EDA** to uncover trends and patterns in the dataset.
 
 ## 🛢️ SQL Queries & Analysis  
 ### **🔍 Data Cleaning & Preprocessing**  
+
+📊 **SQL Queries Screenshot:**  
+![Data Distribution](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg)  
+![Data Distribution](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg) 
+
 ```sql
 -- Remove duplicates & clean missing values
 DELETE FROM water_usage
