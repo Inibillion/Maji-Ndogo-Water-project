@@ -57,7 +57,7 @@ We performed **EDA** to uncover trends and patterns in the dataset.
 ### **🔍 Data Cleaning & Preprocessing**  
 
 📊 **SQL Queries Screenshot:**  
-![Data Distribution](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg)  
+![SQL Queries](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/maji%20sql%20query%201.png)  
 ![Data Distribution](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg) 
 
 ```sql
