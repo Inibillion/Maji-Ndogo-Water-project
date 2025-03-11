@@ -62,7 +62,7 @@ We performed **EDA** to uncover trends and patterns in the dataset.
 
 ---
 
-## 📌 ** Summary & Recommendations**
+## 📌 Summary & Recommendations
 ###   **🚰 Increase water storage facilities in high-consumption areas.**
 ###   **🌦 Implement rainwater harvesting systems to reduce shortages.**
 ###   **🏭 Invest in local water treatment plants for sustainable supply.**
