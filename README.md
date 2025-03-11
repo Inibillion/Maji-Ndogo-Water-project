@@ -66,3 +66,22 @@ DELETE FROM water_usage
 WHERE id NOT IN (
     SELECT MIN(id) FROM water_usage GROUP BY household_id, year
 );
+
+---
+
+## 📌 ** Summary & Recommendations**
+###   **🚰 Increase water storage facilities in high-consumption areas.**
+###   **🌦 Implement rainwater harvesting systems to reduce shortages.**
+###   **🏭 Invest in local water treatment plants for sustainable supply.**
+###   **📊 Monitor water consumption through real-time analytics & IoT sensors.**
+
+---
+
+## 📫 **Let's Connect**
+🌍 **Portfolio Website:** [https://inibillion.github.io/IniBassey-Portfolio/](https://inibillion.github.io/IniBassey-Portfolio/)  
+🔗 **LinkedIn:** [linkedin.com/in/ini-bassey-247social/](https://www.linkedin.com/in/ini-bassey-247social/)  
+📩 **Email:** [inibillion1@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+---
+
+💡 *"Turning raw data into meaningful insights that drive decision-making!"* 🚀  
