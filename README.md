@@ -60,7 +60,6 @@ We performed **EDA** to uncover trends and patterns in the dataset.
 ![SQL Queries](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/maji%20sql%20query%201.png)  
 ![SQL Queries](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/maji%20sql%20query%202.png) 
 
-
 ---
 
 ## 📌 ** Summary & Recommendations**
