@@ -60,12 +60,6 @@ We performed **EDA** to uncover trends and patterns in the dataset.
 ![SQL Queries](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/maji%20sql%20query%201.png)  
 ![SQL Queries](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/maji%20sql%20query%202.png) 
 
-```sql
--- Remove duplicates & clean missing values
-DELETE FROM water_usage
-WHERE id NOT IN (
-    SELECT MIN(id) FROM water_usage GROUP BY household_id, year
-);
 
 ---
 
