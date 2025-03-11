@@ -1,4 +1,4 @@
-(# 📊 Maji Ndogo Water Project | Power BI & SQL Analysis  
+# 📊 Maji Ndogo Water Project | Power BI & SQL Analysis  
 
 ## 📌 Project Overview  
 This project analyzes **water consumption trends and shortages** in Maji Ndogo village using **SQL and Power BI**.  
